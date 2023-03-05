@@ -8,6 +8,7 @@
 框架,kuàngjià,framework,Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
 模型,móxíng,model,它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
 声明式,shēngmíng shì,declarative,它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
+渲染,xuànrǎn,render,声明式渲染(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L68),
 用户,yònghù,user,Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
 用户界面,yònghù jièmiàn,user interface,Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
 组件,zǔjiàn,component,它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
