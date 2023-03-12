@@ -95,3 +95,4 @@
 组件,zǔjiàn,component,它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L29),
 组织,zǔzhī,organize,同时，它将响应性相关的细节抽象出来，并强制按照选项来组织代码，从而对初学者而言更为友好。(https://github.com/vuejs-translations/docs-zh-cn/blob/6c3c1ba8dc996db3b7ec928f0a8164974870a317/src/guide/introduction.md?plain=1#L201),
 安装,ānzhuāng,install,已安装 16.0 或更高版本的 Node.js (https://github.com/vuejs-translations/docs-zh-cn/blob/0744c77f146a9f402e1d426dcc8f61330e373224/src/guide/quick-start.md?plain=1#L20),
+标签,biāoqiān,tag,你可以借助 script 标签直接通过 CDN 来使用 Vue (https://github.com/vuejs-translations/docs-zh-cn/blob/0744c77f146a9f402e1d426dcc8f61330e373224/src/guide/quick-start.md?plain=1#L69),
